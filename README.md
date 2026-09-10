@@ -234,9 +234,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantsharma52&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=nishantsharma52&theme=windows" alt="Contribution Graph"/>
 </p>
 
 ---

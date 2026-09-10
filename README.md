@@ -10,13 +10,14 @@ Full Stack MERN Developer • Java DSA Enthusiast • Problem Solver
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Java+%7C+DSA+%7C+MERN+Stack;Currently+Building+an+LMS+Platform;Always+Learning+Something+New+🚀" />
 </p> -->
 
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nishantsharma52&label=PROFILE+VIEWS&color=70A5FD&style=for-the-badge" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=sushantpal005-pixel&style=for-the-badge&color=70A5FD)
 
-<img src="https://img.shields.io/github/followers/nishantsharma52?label=FOLLOWERS&style=for-the-badge" alt="Followers"/>
+![Followers](https://img.shields.io/github/followers/sushantpal005-pixel?style=for-the-badge)
 
-<img src="https://img.shields.io/github/stars/nishantsharma52?label=STARS&style=for-the-badge" alt="Stars"/>
+![Stars](https://img.shields.io/github/stars/sushantpal005-pixel?style=for-the-badge)
 
 </div>
 

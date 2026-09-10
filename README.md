@@ -221,12 +221,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 <!-- LIVE-STATS:END -->
 
 ---
-
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nishantsharma52&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-svg.vercel.app/api/profile?username=nishantsharma52&mode=glass&theme=dark" alt="GitHub Achievements"/>
 
 </p>
 
@@ -236,7 +235,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantsharma52&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantsharma52&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
 </p>
 

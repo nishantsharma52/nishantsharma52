@@ -13,11 +13,11 @@ Full Stack MERN Developer • Java DSA Enthusiast • Problem Solver
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sushantpal005-pixel&style=for-the-badge&color=70A5FD)
+![Profile Views](https://komarev.com/ghpvc/?username=nishantsharma52&style=for-the-badge&color=70A5FD)
 
-![Followers](https://img.shields.io/github/followers/sushantpal005-pixel?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/nishantsharma52?style=for-the-badge)
 
-![Stars](https://img.shields.io/github/stars/sushantpal005-pixel?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/nishantsharma52?style=for-the-badge)
 
 </div>
 

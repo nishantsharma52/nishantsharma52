@@ -202,14 +202,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 | 👥 Followers | **6** |
 | ⭐ Total Stars | **12** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **712** |
+| 🟩 Total Contributions (this year) | **713** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **95 days** | **95 days** | **145** |
-| 06/08 → 09/10 | 06/08 → 09/10 | this year |
+| **96 days** | **96 days** | **146** |
+| 06/08 → 09/11 | 06/08 → 09/11 | this year |
 
 ### 🗂️ Top Languages
 
@@ -218,7 +218,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 `Python        ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Fri, 11 Sep 2026 03:49:30 GMT*
+> ⏱️ *Auto-updated: Fri, 11 Sep 2026 10:54:22 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

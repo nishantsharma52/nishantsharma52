@@ -198,27 +198,27 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 <!-- LIVE-STATS:START -->
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | **16** |
+| 📦 Public Repos | **17** |
 | 👥 Followers | **6** |
 | ⭐ Total Stars | **12** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **714** |
+| 🟩 Total Contributions (this year) | **720** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **97 days** | **97 days** | **147** |
-| 06/08 → 09/12 | 06/08 → 09/12 | this year |
+| **98 days** | **98 days** | **148** |
+| 06/08 → 09/13 | 06/08 → 09/13 | this year |
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` ████████████████░░░░ 81%
+`JavaScript    ` ███████████████░░░░░ 76%
+`Python        ` ██░░░░░░░░░░░░░░░░░░ 12%
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
-`Python        ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Sun, 13 Sep 2026 04:00:43 GMT*
+> ⏱️ *Auto-updated: Sun, 13 Sep 2026 11:22:59 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

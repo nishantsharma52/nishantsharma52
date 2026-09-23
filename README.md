@@ -208,8 +208,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **107 days** | **107 days** | **157** |
-| 06/08 → 09/22 | 06/08 → 09/22 | this year |
+| **0 days** | **107 days** | **157** |
+| N/A → N/A | 06/08 → 09/22 | this year |
 
 ### 🗂️ Top Languages
 
@@ -218,7 +218,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Wed, 23 Sep 2026 16:27:35 GMT*
+> ⏱️ *Auto-updated: Wed, 23 Sep 2026 21:17:56 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

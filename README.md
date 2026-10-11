@@ -199,7 +199,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 | Metric | Value |
 |--------|-------|
 | 📦 Public Repos | **18** |
-| 👥 Followers | **6** |
+| 👥 Followers | **7** |
 | ⭐ Total Stars | **12** |
 | 🍴 Total Forks | **0** |
 | 🟩 Total Contributions (this year) | **737** |
@@ -218,7 +218,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsharm
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Sun, 11 Oct 2026 12:23:25 GMT*
+> ⏱️ *Auto-updated: Sun, 11 Oct 2026 21:39:58 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
